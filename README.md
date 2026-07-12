@@ -8,6 +8,10 @@
 - 📫 Reach me: `nikhilgupta1613@gmail.com` 
 
 ---
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-1613)
+
+---
 
 ### 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -23,8 +27,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-1613&layout=compact&theme=radical&hide_progress=true)
 
 ---
-
-
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-1613)
