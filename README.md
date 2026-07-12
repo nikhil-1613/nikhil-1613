@@ -38,27 +38,18 @@
 
 ### 📊 GitHub Stats
 
-<table>
+<table style="background-color: white; border-radius: 12px; padding: 15px; width: 100%; color: #333;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-1613&theme=radical&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-1613&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<table>
+<table style="background-color: white; border-radius: 12px; padding: 15px; width: 100%; color: #333; margin-top: 15px;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nikhil-1613&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-1613&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-1613&layout=compact&theme=radical&hide_progress=true" />
-    </td>
-  </tr>
-</table>
----
