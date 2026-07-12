@@ -1,6 +1,6 @@
 # Hi there, I'm Nikhil 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil-1613&color=brightgreen&style=flat-square)
 
 ### About Me
 - 🌱 Learning: ** Go / AI / Devops**
@@ -18,9 +18,9 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nikhil-1613=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?nikhil-1613=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
