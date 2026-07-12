@@ -18,10 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nikhil-1613=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?nikhil-1613=YOUR_USERNAME&layout=compact&theme=radical)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil-1613&show_icons=true&theme=radical)
 ---
 
 ### 🌐 Connect With Me
