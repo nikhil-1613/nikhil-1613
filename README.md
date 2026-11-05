@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=nikhil-1613&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     alt="Nikhil's GitHub Stats"
@@ -89,7 +89,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-1613&layout=compact&theme=radical&hide_border=true&langs_count=8" 
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img 
