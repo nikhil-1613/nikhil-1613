@@ -112,17 +112,6 @@
 * ☁️ Exploring **AWS and Cloud Infrastructure**
 * 🤖 Learning and building with **AI**
 
----
-
-## 🎯 2026 Goals
-
-* 🚀 Become highly skilled in **DevOps & Cloud**
-* ☸️ Master **Kubernetes**
-* ☁️ Gain deeper knowledge of **AWS**
-* 🔄 Build real-world **CI/CD pipelines**
-* 🐹 Improve my **Go** development skills
-* 🤖 Build practical **AI-powered applications**
-* 🌍 Contribute to **Open Source**
 
 ---
 
