@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Go, AI, and DevOps**
+* 🌱 Currently learning **AI, and DevOps**
 * ☁️ Exploring **Docker, Kubernetes, AWS, and CI/CD**
 * 🚀 Building and deploying full-stack applications
 * 👯 Looking to collaborate on **Open Source Projects**
@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
 </p>
 
